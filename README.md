@@ -8,4 +8,4 @@ Feature Engineering
 Model Training (Linear Regression, Random Forest)
 Model Evaluation
 Result:
-Achieved R² Score of XX%.
+Achieved R² Score: 0.5997023481243802
